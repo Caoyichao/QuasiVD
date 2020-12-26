@@ -32,7 +32,7 @@ QuasiVD (Proposed) | Mobilenetv3 | Dual-frame | - | - | 277.8ms | 3.6 | Jetson |
 
 # Visualization
 
-I
+Some cases and QuasiVD middle terms visualization: (a) input images, (b) frame difference, (c) motion-aware mask , (d) weakly guided attention , and (e) detection results. Among these cases, “positive” cases containing smoke targets
 
 ![ ](visualization/visualization.png)
 
