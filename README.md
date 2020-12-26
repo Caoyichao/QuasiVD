@@ -14,7 +14,7 @@ Pytorch 1.3+
 Comparison with other methods on our dataset.
 
 Model | Backbone | Input | Params | Flops | Latency | fps | Hardware | mAP50
-
+--- |--- |--- |--- |--- |--- |--- |--- |---
 Yolov4 | Darknet | Single-frame | 64.3M | 45.7G | 15.5ms | 64.5 | RTX2080Ti | 69.70
 EfficientDet-D0 | EfficientNet-B0 | Single-frame | 3.9M | 2.58G | 5.3ms | 188.2 | RTX2080Ti | 62.73
 EfficientDet-D1 | EfficientNet-B1 | Single-frame | 6.6M | 3.96G | 7.4ms | 134.7 | RTX2080Ti | 66.59
