@@ -1,6 +1,6 @@
 # QuasiVD
 
-QuasiVD: Efficient Dual-Frame Smoke Detection Method for IoT Edge
+code for paper "QuasiVD: Efficient Dual-Frame Smoke Detection Method for IoT Edge"
 
 The code will be available soon.
 
